@@ -1496,3 +1496,10 @@ Stack trace:
 [08-Feb-2021 15:18:39 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
 [08-Feb-2021 15:18:39 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
 [08-Feb-2021 15:18:39 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 18:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_product_search_form() in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:49
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php(19): require_once('C:\\Users\\COBNET...')
+#2 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php(17): require('C:\\Users\\COBNET...')
+#3 {main}
+  thrown in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 49

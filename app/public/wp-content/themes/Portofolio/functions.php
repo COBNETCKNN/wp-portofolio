@@ -8,7 +8,9 @@ function portofolio_files() {
 
     //enqueing JS
         wp_enqueue_script('mainJS', get_stylesheet_directory_uri() . '/js/main.js', array(), 1.0, true);
+        wp_enqueue_script( 'jquery' );
         wp_enqueue_script('fontAwesomeJS', 'https://kit.fontawesome.com/24bc428ad4.js');
+        wp_enqueue_script('particlesJS', get_stylesheet_directory_uri() . '/js/particles.js-master/dist/particles.min.js', array(), 1.0, true);
 
 }
 add_action('wp_enqueue_scripts', 'portofolio_files');
