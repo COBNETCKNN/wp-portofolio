@@ -132,6 +132,10 @@ module.exports = {
           '800': '#135371',
           '900': '#124358',
         },
+      },
+      fontFamily: {
+        nunito: ['Nunito'],
+        ralway: ['Raleway']
       }
     }
   },

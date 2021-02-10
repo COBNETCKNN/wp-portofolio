@@ -23,6 +23,7 @@ function portofolio_features() {
 
 
     //custom image sizes
+    add_image_size('aboutAvatar', 270, 270, true);
 }
 add_action('after_setup_theme', 'portofolio_features');
 

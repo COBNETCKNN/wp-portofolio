@@ -1503,3 +1503,978 @@ Stack trace:
 #2 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php(17): require('C:\\Users\\COBNET...')
 #3 {main}
   thrown in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 49
+[09-Feb-2021 19:47:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:47:10 UTC] PHP Stack trace:
+[09-Feb-2021 19:47:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:0
+[09-Feb-2021 19:47:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:72
+[09-Feb-2021 19:47:10 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:47:10 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:47:10 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:47:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:47:10 UTC] PHP Stack trace:
+[09-Feb-2021 19:47:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:0
+[09-Feb-2021 19:47:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:72
+[09-Feb-2021 19:47:10 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:47:10 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:47:10 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:47:10 UTC] PHP Stack trace:
+[09-Feb-2021 19:47:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:0
+[09-Feb-2021 19:47:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:72
+[09-Feb-2021 19:47:10 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:47:10 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:47:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:47:10 UTC] PHP Stack trace:
+[09-Feb-2021 19:47:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:0
+[09-Feb-2021 19:47:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post-new.php:72
+[09-Feb-2021 19:47:10 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:47:10 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:48:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:48:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:48:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:48:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:48:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:48:00 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:48:00 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:48:00 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:48:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:48:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:48:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:48:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:48:00 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:48:00 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:48:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:48:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:48:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:48:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:48:00 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:48:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:48:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:48:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:48:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:48:00 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:48:00 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:51:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:51:19 UTC] PHP Stack trace:
+[09-Feb-2021 19:51:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:51:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:51:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:51:19 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:51:19 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:51:19 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:51:19 UTC] PHP Stack trace:
+[09-Feb-2021 19:51:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:51:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:51:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:51:19 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:51:19 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:51:19 UTC] PHP Stack trace:
+[09-Feb-2021 19:51:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:51:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:51:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:51:19 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:51:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:51:19 UTC] PHP Stack trace:
+[09-Feb-2021 19:51:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:51:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:51:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:51:19 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:52:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:52:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:16 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:52:16 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:52:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:52:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:16 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:52:16 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:52:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:16 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:52:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:52:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:16 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:52:16 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:52:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:52:24 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:24 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:24 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:52:24 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:52:24 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:52:24 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:24 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:24 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:52:24 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:52:24 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:24 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:24 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:52:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:52:24 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:24 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:24 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:24 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:52:24 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:52:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:52:41 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:41 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:41 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:52:41 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:52:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:52:41 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:41 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:41 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:52:41 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:52:41 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:41 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:52:41 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:52:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:52:41 UTC] PHP Stack trace:
+[09-Feb-2021 19:52:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:52:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:52:41 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:52:42 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:55:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:55:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:00 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:55:00 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:55:00 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:55:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:00 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:55:00 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:55:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:00 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:55:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:55:00 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:00 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:55:00 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:55:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:55:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:16 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:55:16 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:55:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:55:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:16 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:55:16 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:55:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:16 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:55:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:55:16 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:16 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:55:16 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:55:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:55:55 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:55 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:55 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:55 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:55 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:55:55 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:55:55 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:55:55 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:55 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:55 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:55 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:55 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:55:55 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:55:55 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:55 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:55 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:55 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:55:55 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:55:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:55:55 UTC] PHP Stack trace:
+[09-Feb-2021 19:55:55 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:55:55 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:55:55 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:55:55 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:56:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:56:06 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:06 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:56:06 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:56:06 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:56:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:56:06 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:06 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:56:06 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:56:06 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:56:06 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:06 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:56:06 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:56:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:56:06 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:06 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:06 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:06 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:56:06 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:56:18 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:56:18 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:18 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:18 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:18 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:56:18 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:56:18 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:56:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:56:18 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:18 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:18 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:18 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:56:18 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:56:18 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:56:18 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:18 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:18 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:18 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:56:18 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:56:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:56:18 UTC] PHP Stack trace:
+[09-Feb-2021 19:56:18 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:56:18 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:56:18 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:56:18 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:57:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:57:25 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:25 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:25 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:25 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:57:25 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:57:25 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:57:25 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:57:25 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:25 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:25 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:25 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:57:25 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:57:25 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:57:25 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:25 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:26 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:57:26 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:57:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:57:26 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:26 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:26 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:26 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:57:26 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:57:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:57:42 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:42 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:57:42 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:57:42 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:57:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:57:42 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:42 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:57:42 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:57:42 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:57:42 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:42 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:57:42 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:57:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:57:42 UTC] PHP Stack trace:
+[09-Feb-2021 19:57:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:57:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:57:42 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:57:42 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 19:59:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 19:59:31 UTC] PHP Stack trace:
+[09-Feb-2021 19:59:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:59:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:59:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:59:31 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 19:59:31 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 19:59:31 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 19:59:31 UTC] PHP Stack trace:
+[09-Feb-2021 19:59:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:59:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:59:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:59:31 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 19:59:31 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 19:59:31 UTC] PHP Stack trace:
+[09-Feb-2021 19:59:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:59:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:59:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 19:59:31 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 19:59:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 19:59:31 UTC] PHP Stack trace:
+[09-Feb-2021 19:59:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 19:59:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 19:59:31 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 19:59:31 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:00:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:00:16 UTC] PHP Stack trace:
+[09-Feb-2021 20:00:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:00:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:00:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:00:16 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:00:16 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:00:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:00:16 UTC] PHP Stack trace:
+[09-Feb-2021 20:00:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:00:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:00:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:00:16 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:00:16 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:00:16 UTC] PHP Stack trace:
+[09-Feb-2021 20:00:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:00:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:00:16 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:00:16 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:00:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:00:16 UTC] PHP Stack trace:
+[09-Feb-2021 20:00:16 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:00:16 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:00:16 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:00:16 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:02:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:02:10 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:10 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:02:10 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:02:10 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:02:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:02:10 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:10 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:02:10 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:02:10 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:02:10 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:10 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:02:10 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:02:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:02:10 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:10 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:10 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:10 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:02:10 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:02:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:02:40 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:40 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:02:40 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:02:40 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:02:40 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:02:40 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:40 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:02:40 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:02:40 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:02:40 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:40 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:02:40 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:02:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:02:40 UTC] PHP Stack trace:
+[09-Feb-2021 20:02:40 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:02:40 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:02:40 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:02:40 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:03:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:03:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:03:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:03:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:03:30 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:03:30 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:03:30 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:03:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:03:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:03:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:03:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:03:30 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:03:30 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:03:30 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:03:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:03:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:03:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:03:30 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:03:30 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:03:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:03:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:03:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:03:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:03:30 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:03:30 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:04:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:04:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:04:19 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:04:19 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:04:19 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:04:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:04:19 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:04:19 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:04:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:04:19 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:04:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:04:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:04:19 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:04:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:04:45 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:45 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:04:45 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:04:45 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:04:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:04:45 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:45 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:04:45 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:04:45 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:04:45 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:45 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:04:45 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:04:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:04:45 UTC] PHP Stack trace:
+[09-Feb-2021 20:04:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:04:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:04:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:04:45 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:05:00 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:05:00 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:00 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:00 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:05:00 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:05:00 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:05:00 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:00 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:00 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:01 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:01 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:05:01 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:05:01 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:01 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:01 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:05:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:05:01 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:05:01 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:05:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:05:12 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:12 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:12 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:12 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:12 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:05:12 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:05:12 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:05:12 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:12 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:12 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:12 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:12 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:05:12 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:05:12 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:12 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:12 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:12 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:12 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:05:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:05:12 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:12 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:12 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:12 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:05:12 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:05:21 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:05:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:21 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:21 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:05:21 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:05:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:05:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:21 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:21 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:05:21 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:05:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:21 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:05:21 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:05:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:05:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:05:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:05:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:05:21 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:05:21 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:06:01 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:06:01 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:01 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:01 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:06:01 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:06:01 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:06:01 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:01 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:01 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:06:01 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:06:01 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:01 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:01 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:06:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:06:01 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:01 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:01 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:01 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:06:01 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:06:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:06:17 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:17 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:17 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:06:17 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:06:17 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:06:17 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:17 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:17 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:06:17 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:06:17 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:17 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:17 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:06:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:06:17 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:06:17 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:06:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:06:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:31 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:06:31 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:06:31 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:06:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:31 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:06:31 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:06:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:31 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:06:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:06:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:31 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:06:31 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:06:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:06:37 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:37 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:37 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:37 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:37 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:06:37 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:06:37 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:06:37 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:37 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:37 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:37 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:37 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:06:37 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:06:37 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:37 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:37 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:37 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:37 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:06:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:06:37 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:37 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:37 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:37 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:06:37 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:06:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:06:41 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:41 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:41 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:06:41 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:06:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:06:41 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:41 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:41 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:06:41 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:06:41 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:41 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:06:41 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:06:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:06:41 UTC] PHP Stack trace:
+[09-Feb-2021 20:06:41 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:06:41 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:06:41 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:06:41 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:07:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:07:56 UTC] PHP Stack trace:
+[09-Feb-2021 20:07:56 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:07:56 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:07:56 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:07:56 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:07:56 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:07:56 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:07:56 UTC] PHP Stack trace:
+[09-Feb-2021 20:07:56 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:07:56 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:07:56 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:07:57 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:07:57 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:07:57 UTC] PHP Stack trace:
+[09-Feb-2021 20:07:57 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:07:57 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:07:57 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:07:57 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:07:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:07:57 UTC] PHP Stack trace:
+[09-Feb-2021 20:07:57 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:07:57 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:07:57 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:07:57 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:08:30 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:08:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:30 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:08:30 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:08:30 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:08:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:08:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:30 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:08:30 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:08:30 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:08:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:30 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:08:30 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:08:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:08:30 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:30 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:30 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:30 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:08:30 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:08:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:08:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:08:31 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:08:31 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:08:31 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:08:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:08:31 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:08:31 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:08:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:31 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:08:31 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:08:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:08:31 UTC] PHP Stack trace:
+[09-Feb-2021 20:08:31 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:08:31 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:08:31 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:08:31 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:09:19 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:09:19 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:09:19 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:09:19 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:09:19 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:09:19 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:09:19 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:09:19 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:09:19 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:09:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:09:19 UTC] PHP Stack trace:
+[09-Feb-2021 20:09:19 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:09:19 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:09:19 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:09:19 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:10:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:10:44 UTC] PHP Stack trace:
+[09-Feb-2021 20:10:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:10:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:10:44 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:10:44 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:10:44 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:10:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:10:44 UTC] PHP Stack trace:
+[09-Feb-2021 20:10:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:10:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:10:44 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:10:44 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:10:44 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:10:44 UTC] PHP Stack trace:
+[09-Feb-2021 20:10:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:10:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:10:44 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:10:44 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:10:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:10:44 UTC] PHP Stack trace:
+[09-Feb-2021 20:10:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:10:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:10:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:10:44 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:11:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:11:20 UTC] PHP Stack trace:
+[09-Feb-2021 20:11:20 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:11:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:11:21 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:11:21 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:11:21 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:11:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:11:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:11:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:11:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:11:21 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:11:21 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:11:21 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:11:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:11:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:11:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:11:21 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:11:21 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:11:21 UTC] PHP Stack trace:
+[09-Feb-2021 20:11:21 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:11:21 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:11:21 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:11:21 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:13:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:13:58 UTC] PHP Stack trace:
+[09-Feb-2021 20:13:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:13:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:13:58 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:13:58 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:13:58 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:13:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:13:58 UTC] PHP Stack trace:
+[09-Feb-2021 20:13:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:13:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:13:58 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:13:58 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:13:58 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:13:58 UTC] PHP Stack trace:
+[09-Feb-2021 20:13:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:13:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:13:58 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:13:58 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:13:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:13:58 UTC] PHP Stack trace:
+[09-Feb-2021 20:13:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:13:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:13:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:13:58 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:14:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:14:35 UTC] PHP Stack trace:
+[09-Feb-2021 20:14:35 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:14:35 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:14:35 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:14:35 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:14:35 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:14:35 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:14:35 UTC] PHP Stack trace:
+[09-Feb-2021 20:14:35 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:14:35 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:14:35 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:14:35 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:14:35 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:14:35 UTC] PHP Stack trace:
+[09-Feb-2021 20:14:35 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:14:35 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:14:35 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:14:35 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:14:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:14:35 UTC] PHP Stack trace:
+[09-Feb-2021 20:14:35 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:14:35 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:14:35 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:14:35 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:15:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:15:38 UTC] PHP Stack trace:
+[09-Feb-2021 20:15:38 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:15:38 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:15:38 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:15:38 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:15:38 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:15:38 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:15:38 UTC] PHP Stack trace:
+[09-Feb-2021 20:15:38 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:15:38 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:15:38 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:15:38 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:15:38 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:15:38 UTC] PHP Stack trace:
+[09-Feb-2021 20:15:38 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:15:38 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:15:38 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:15:38 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:15:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:15:38 UTC] PHP Stack trace:
+[09-Feb-2021 20:15:38 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:15:38 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:15:38 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:15:38 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
+[09-Feb-2021 20:19:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'disable_emojicons_tinymce' not found or invalid function name in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php on line 289
+[09-Feb-2021 20:19:34 UTC] PHP Stack trace:
+[09-Feb-2021 20:19:34 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:19:34 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:19:34 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:19:34 UTC] PHP   4. apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:422
+[09-Feb-2021 20:19:34 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php:212
+[09-Feb-2021 20:19:34 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 423
+[09-Feb-2021 20:19:34 UTC] PHP Stack trace:
+[09-Feb-2021 20:19:34 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:19:34 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:19:34 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:19:34 UTC] PHP   4. array_unique() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423
+[09-Feb-2021 20:19:34 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php on line 477
+[09-Feb-2021 20:19:34 UTC] PHP Stack trace:
+[09-Feb-2021 20:19:34 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:19:34 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:19:34 UTC] PHP   3. wp_tinymce_inline_scripts() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:375
+[09-Feb-2021 20:19:34 UTC] PHP   4. implode() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:477
+[09-Feb-2021 20:19:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php:423) in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php on line 9
+[09-Feb-2021 20:19:34 UTC] PHP Stack trace:
+[09-Feb-2021 20:19:34 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:0
+[09-Feb-2021 20:19:34 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\post.php:187
+[09-Feb-2021 20:19:34 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\edit-form-blocks.php:436
+[09-Feb-2021 20:19:34 UTC] PHP   4. header() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-admin\admin-header.php:9
