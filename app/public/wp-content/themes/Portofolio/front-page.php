@@ -21,9 +21,11 @@
                     <h1 class="hero-text text-center text-white text-5xl font-extralight">
                     Hi there, I'm <span class="text-royalblue-400 font-normal">Ahmed Meshkin</span><br>
                     also a Wordpress developer.</h1>
+                    <a href="#navbar">
                     <button class="hero-button bg-transparent hover:bg-royalblue-400 text-white font-semibold hover:text-white py-2 px-4 border border-white hover:border-transparent rounded mt-8">
                     MORE ABOUT ME <i class="fas fa-arrow-down"></i>
                     </button>
+                    </a>
                 </div>
             </div>
         </div>  
@@ -73,12 +75,14 @@
 
                 <!-- HEADING SECTION -->
         <div class="container mx-auto">
-            <h1 class="mt-12 uppercase text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700"><?php the_title(); ?></h1>
+            <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700"><?php the_title(); ?></h1>
         </div>
+
+        <div class="about-underline py-0.5 mt-2 w-36 rounded-lg bg-gray-700 mx-auto"></div>
 
         <!-- CONTENT --> 
 
-        <div class="container mx-auto flex justify-center">
+        <div class="container mx-auto block md:flex justify-center">
             <div class="md:w-1/2 mt-10">
                 <div class="mx-auto">
                     <img class="mx-auto rounded-full shadow-xl border-solid border-2 border-royalblue-400 " src="<?php the_post_thumbnail_url('aboutAvatar'); ?>" alt="">
@@ -86,27 +90,69 @@
             </div>
 
             <!-- CONTENT -->
-            <div class="md:W-1/2 m-auto mr-24 text-lg">
-                <p class="text-xl font-raleway text-gray-700"><?php the_content(); ?></p>
+            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-base lg:text-lg font-raleway text-gray-700">
+                <p class=""><?php the_content(); ?></p>
             </div>
         </div>
 
         <?php  }
-            wp_reset_postdata();
         ?>
 </section>
 
+<?php wp_reset_postdata(); ?>
+
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 100"><path fill="#E5E7EB" fill-opacity="1" d="M0,0L1440,96L1440,320L0,320Z"></path></svg>
+    
 
 <!-- STACK SECTION -->
-
 <section id="stack" class="relative bg-gray-200">
     <div class="container mx-auto">
-        <div class="py-40">
-                <h1>asd</h1>
-        </div>
+        <h1 class="text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Stack</h1>
     </div>
-</section>
+
+    <div class="stack-underline py-0.5 mt-2 w-32 rounded-lg bg-gray-700 mx-auto"></div>
+
+<?php
+
+    $stackQuery = new WP_Query(array(
+        'page_id' => 27
+    ));
+
+    while ($stackQuery->have_posts()){
+        $stackQuery->the_post(); ?>
+
+        <?php 
+        $images = get_field('stack_gallery');
+        if( $images ): ?>
+            <ul class="container mx-auto flex justify-center mt-12">
+            <div class="grid grid-cols-5">
+                <?php foreach( $images as $image ): ?>
+                    <li class="m-auto px-5 py-3 md:px-10 md:py-2 lg:px-20 lg:py-5">
+                        <a href="#">
+                            <img src="<?php echo esc_url($image['sizes']['thumbnail']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+                        </a>
+                        <p><?php echo esc_html($image['caption']); ?></p>
+                    </li>
+                <?php endforeach; ?>
+                </div>
+            </ul>
+        <?php endif; ?>
+   <?php } 
+   
+        wp_reset_postdata();
+   ?> 
+
+   </section>
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 130">
+    <path fill="#E5E7EB" fill-opacity="1" d="M0,128L1440,0L1440,0L0,0Z"></path>
+    </svg>
+
+    <!-- PROJECT SECTION -->
+
+
+
+
 
 
 

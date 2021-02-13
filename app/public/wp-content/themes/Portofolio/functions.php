@@ -28,12 +28,36 @@ function portofolio_features() {
 add_action('after_setup_theme', 'portofolio_features');
 
 
+// REMOVING CONTENT EDITOR FROM PAGES
+
+    //Come and Visit Us Page
+function hide_editor() {
+
+    $homepgname = get_the_title($post_id);
+    if($homepgname == 'Stack'){ 
+        remove_post_type_support('page', 'editor');
+        }
+    }
+add_action( 'admin_head', 'hide_editor' );
+
+
+// ADDING SUPPORT FOR SVG ICONS
+
+function add_file_types_to_uploads($file_types){
+    $new_filetypes = array();
+    $new_filetypes['svg'] = 'image/svg+xml';
+    $file_types = array_merge($file_types, $new_filetypes );
+    return $file_types;
+    }
+add_filter('upload_mimes', 'add_file_types_to_uploads');
 
 
 
 
 
 
+
+/*
 // REMOVING WP EMOJIS
 function disable_wp_emojicons() {
 

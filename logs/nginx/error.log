@@ -1,0 +1,1 @@
+2021/02/09 21:32:18 [error] 88396#88760: *9520 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:10027", host: "portofolio.local", referrer: "http://localhost:3000/"
