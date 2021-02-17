@@ -141,7 +141,7 @@
             <ul class="container mx-auto flex justify-center">
             <div class="grid grid-cols-5 mb-12">
                 <?php foreach( $images as $image ): ?>
-                    <li class="m-auto p-4 md:p-1 lg:p-4">
+                    <li class="m-auto p-5 md:p-1 lg:p-6">
                         <a>
                             <img src="<?php echo esc_url($image['sizes']['medium']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
                         </a>
@@ -154,20 +154,23 @@
    
         wp_reset_postdata();
    ?> 
-
-
-    </div>
-    </div>
+        </div>
+     </div>
    </section>
 
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 130">
     <path fill="#E5E7EB" fill-opacity="1" d="M0,128L1440,0L1440,0L0,0Z"></path>
     </svg>
 
-    <!-- PROJECT SECTION -->
 
+    <!-- PROJECT SECTION -->
     <section id="projects" class="relative bg-white mb-14">
-    
+        <!-- HEADING -->
+        <div class="container mx-auto">
+            <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Projects</h1>
+            <div class="about-underline py-0.5 mt-2 w-44 rounded-lg bg-gray-700 mx-auto"></div>
+        </div>
+        
     
     
     </section>
