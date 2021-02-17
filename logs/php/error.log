@@ -4046,3 +4046,624 @@ Stack trace:
 [12-Feb-2021 23:38:39 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 117
 [12-Feb-2021 23:39:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 115
 [13-Feb-2021 21:32:42 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 127
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:08:14 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[13-Feb-2021 22:08:14 UTC] PHP Stack trace:
+[13-Feb-2021 22:08:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[13-Feb-2021 22:08:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[13-Feb-2021 22:08:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[13-Feb-2021 22:08:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[13-Feb-2021 22:08:14 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:132
+[13-Feb-2021 22:08:14 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[13-Feb-2021 22:14:07 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 139
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:45 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:45 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:46 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:46 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:46 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:46 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:46 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:46 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:58 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:58 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:58 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:58 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:58 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:58 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'thumbnail' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:42:59 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:42:59 UTC] PHP Stack trace:
+[16-Feb-2021 18:42:59 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:42:59 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:42:59 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:42:59 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:13 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:13 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:13 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:13 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:13 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'medium' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[16-Feb-2021 18:43:14 UTC] PHP Warning:  Illegal string offset 'alt' in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php on line 132
+[16-Feb-2021 18:43:14 UTC] PHP Stack trace:
+[16-Feb-2021 18:43:14 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106

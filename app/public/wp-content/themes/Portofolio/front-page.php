@@ -90,7 +90,7 @@
             </div>
 
             <!-- CONTENT -->
-            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-base lg:text-lg font-raleway text-gray-700">
+            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-base lg:text-2xl font-raleway text-gray-700 text-center">
                 <p class=""><?php the_content(); ?></p>
             </div>
         </div>
@@ -106,14 +106,16 @@
 
 <!-- STACK SECTION -->
 <section id="stack" class="relative bg-gray-200">
-    <div class="container mx-auto">
+    <div class="container mx-auto mb-12 md:mb-0">
         <h1 class="text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Stack</h1>
+        <div class="stack-underline py-0.5 mt-2 w-32 rounded-lg bg-gray-700 mx-auto"></div>
     </div>
 
-    <div class="stack-underline py-0.5 mt-2 w-32 rounded-lg bg-gray-700 mx-auto"></div>
 
+
+
+<!-- QUERY FOR STACK PAGE -->
 <?php
-
     $stackQuery = new WP_Query(array(
         'page_id' => 27
     ));
@@ -121,17 +123,28 @@
     while ($stackQuery->have_posts()){
         $stackQuery->the_post(); ?>
 
+
+<!-- CONTENT -->
+<div class="container mx-auto block md:flex justify-center">
+    <div class="md:w-1/2 m-auto md:mr-20 text-base lg:text-2xl font-raleway text-gray-700 text-center">
+        <p><?php the_content(); ?></p>
+    </div>
+
+
+
+
+<!-- PROGRAMMING LANGUAGE ICONS -->
+        <div class="md:w-1/2 mt-10">
         <?php 
         $images = get_field('stack_gallery');
         if( $images ): ?>
-            <ul class="container mx-auto flex justify-center mt-12">
-            <div class="grid grid-cols-5">
+            <ul class="container mx-auto flex justify-center">
+            <div class="grid grid-cols-5 mb-12">
                 <?php foreach( $images as $image ): ?>
-                    <li class="m-auto px-5 py-3 md:px-10 md:py-2 lg:px-20 lg:py-5">
-                        <a href="#">
-                            <img src="<?php echo esc_url($image['sizes']['thumbnail']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+                    <li class="m-auto p-4 md:p-1 lg:p-4">
+                        <a>
+                            <img src="<?php echo esc_url($image['sizes']['medium']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
                         </a>
-                        <p><?php echo esc_html($image['caption']); ?></p>
                     </li>
                 <?php endforeach; ?>
                 </div>
@@ -142,6 +155,9 @@
         wp_reset_postdata();
    ?> 
 
+
+    </div>
+    </div>
    </section>
 
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 130">
@@ -149,6 +165,12 @@
     </svg>
 
     <!-- PROJECT SECTION -->
+
+    <section id="projects" class="relative bg-white mb-14">
+    
+    
+    
+    </section>
 
 
 

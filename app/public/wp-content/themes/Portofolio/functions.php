@@ -30,6 +30,8 @@ add_action('after_setup_theme', 'portofolio_features');
 
 // REMOVING CONTENT EDITOR FROM PAGES
 
+
+/*
     //Come and Visit Us Page
 function hide_editor() {
 
@@ -39,7 +41,7 @@ function hide_editor() {
         }
     }
 add_action( 'admin_head', 'hide_editor' );
-
+*/
 
 // ADDING SUPPORT FOR SVG ICONS
 
