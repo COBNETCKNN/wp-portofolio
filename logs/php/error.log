@@ -4667,3 +4667,171 @@ Stack trace:
 [16-Feb-2021 18:43:14 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
 [16-Feb-2021 18:43:14 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
 [16-Feb-2021 18:43:14 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:23:44 UTC] PHP Stack trace:
+[19-Feb-2021 22:23:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:23:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:23:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:23:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:44 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:23:44 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:23:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:23:44 UTC] PHP Stack trace:
+[19-Feb-2021 22:23:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:23:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:23:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:23:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:44 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:209
+[19-Feb-2021 22:23:44 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:23:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:23:44 UTC] PHP Stack trace:
+[19-Feb-2021 22:23:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:23:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:23:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:23:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:44 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:23:44 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:23:44 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:23:44 UTC] PHP Stack trace:
+[19-Feb-2021 22:23:44 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:23:44 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:23:44 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:23:44 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:44 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:209
+[19-Feb-2021 22:23:45 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:23:45 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:23:45 UTC] PHP Stack trace:
+[19-Feb-2021 22:23:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:23:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:23:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:23:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:45 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:23:45 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:23:45 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:23:45 UTC] PHP Stack trace:
+[19-Feb-2021 22:23:45 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:23:45 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:23:45 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:23:45 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:23:45 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:209
+[19-Feb-2021 22:23:45 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:17 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:17 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:17 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:205
+[19-Feb-2021 22:24:17 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:17 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:17 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:17 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:211
+[19-Feb-2021 22:24:17 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:17 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:17 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:17 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:205
+[19-Feb-2021 22:24:17 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:17 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:17 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:17 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:211
+[19-Feb-2021 22:24:17 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:17 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:17 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:17 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:205
+[19-Feb-2021 22:24:17 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:17 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:17 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:17 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:17 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:17 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:17 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:17 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:211
+[19-Feb-2021 22:24:17 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:42 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:42 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:42 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:42 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:24:42 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:42 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:42 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:42 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:42 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:209
+[19-Feb-2021 22:24:42 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:42 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:42 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:42 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:42 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:24:42 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:42 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:42 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:42 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:42 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:209
+[19-Feb-2021 22:24:42 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:42 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:42 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:42 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:42 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:43 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:43 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:43 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:24:43 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:24:43 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:24:43 UTC] PHP Stack trace:
+[19-Feb-2021 22:24:43 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:24:43 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:24:43 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:24:43 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:24:43 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:209
+[19-Feb-2021 22:24:43 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:25:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:25:23 UTC] PHP Stack trace:
+[19-Feb-2021 22:25:23 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:25:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:25:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:25:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:25:23 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:25:23 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:25:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:25:23 UTC] PHP Stack trace:
+[19-Feb-2021 22:25:23 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:25:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:25:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:25:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:25:23 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:25:23 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[19-Feb-2021 22:25:23 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php on line 4314
+[19-Feb-2021 22:25:23 UTC] PHP Stack trace:
+[19-Feb-2021 22:25:23 UTC] PHP   1. {main}() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:0
+[19-Feb-2021 22:25:23 UTC] PHP   2. require() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\index.php:17
+[19-Feb-2021 22:25:23 UTC] PHP   3. require_once() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-blog-header.php:19
+[19-Feb-2021 22:25:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
+[19-Feb-2021 22:25:23 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
+[19-Feb-2021 22:25:23 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314

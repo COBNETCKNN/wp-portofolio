@@ -90,7 +90,7 @@
             </div>
 
             <!-- CONTENT -->
-            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-base lg:text-2xl font-raleway text-gray-700 text-center">
+            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-base lg:text-2xl font-raleway text-black text-center">
                 <p class=""><?php the_content(); ?></p>
             </div>
         </div>
@@ -126,7 +126,7 @@
 
 <!-- CONTENT -->
 <div class="container mx-auto block md:flex justify-center">
-    <div class="md:w-1/2 m-auto md:mr-20 text-base lg:text-2xl font-raleway text-gray-700 text-center">
+    <div class="md:w-1/2 m-auto md:mr-20 text-base lg:text-2xl font-raleway text-black text-center">
         <p><?php the_content(); ?></p>
     </div>
 
@@ -169,10 +169,58 @@
         <div class="container mx-auto">
             <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Projects</h1>
             <div class="about-underline py-0.5 mt-2 w-44 rounded-lg bg-gray-700 mx-auto"></div>
-        </div>
+      
+        <?php 
         
-    
-    
+           $projectQuery = new WP_Query(array(
+             'post_type' => 'project',
+             'order' => 'ASC',
+           ));
+
+         ?>
+
+         <div class="block md:grid grid-cols-3 gap-4">
+
+          <?php
+
+            while($projectQuery->have_posts()) {
+             $projectQuery->the_post(); 
+             
+             // acf fields for links
+             $liveLink = get_field('live_project_link');
+             $githubLink = get_field('github_link');
+             
+             ?>
+
+             <div class="mt-10 text-center p-3">
+               <p class="title project-text text-xl font-raleway font-medium text-gray-700 mb-5"><?php the_title(); ?></p>
+               <div class="image border-2 border-gray-300">
+                <img
+                   alt="..."
+                   class="image__img shadow-2xl m-auto"
+                   src="<?php the_post_thumbnail_url('projectSize')?>"/>
+                 <div class="image__overlay">
+                  <a href="<?php echo esc_url($liveLink); ?>">
+                   <button class="bg-transparent hover:bg-white text-white font-bold hover:text-black py-2 px-9 border border-white hover:border-transparent rounded mb-5">
+                     Live Preview
+                   </button>
+                  </a>
+
+                  <a href="<?php echo esc_url($githubLink); ?>">
+                   <button class="bg-transparent hover:bg-white text-white font-bold hover:text-black py-2 px-14 border border-white hover:border-transparent rounded">
+                     GitHub
+                   </button>
+                  </a>
+
+                 </div>
+                </div>
+              </div>
+
+        <?php
+           }
+        ?>
+        </div>
+       </div>
     </section>
 
 

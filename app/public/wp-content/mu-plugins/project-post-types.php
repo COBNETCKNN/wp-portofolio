@@ -15,7 +15,7 @@
             ),
             'menu_icon' => 'dashicons-wordpress',
             'rewrite' => array('slug' => 'projects'),
-            'supports' => array('title'),
+            'supports' => array('title', 'thumbnail'),
 
         ));
 
