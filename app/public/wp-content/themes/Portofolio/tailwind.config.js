@@ -135,7 +135,7 @@ module.exports = {
       },
       fontFamily: {
         nunito: ['Nunito'],
-        ralway: ['Raleway']
+        raleway: ['Raleway']
       }
     }
   },

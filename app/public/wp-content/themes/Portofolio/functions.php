@@ -11,7 +11,7 @@ function portofolio_files() {
         wp_enqueue_script( 'jquery' );
         wp_enqueue_script('fontAwesomeJS', 'https://kit.fontawesome.com/24bc428ad4.js');
         wp_enqueue_script('particlesJS', get_stylesheet_directory_uri() . '/js/particles.js-master/dist/particles.min.js', array(), 1.0, true);
-
+        wp_enqueue_script('iconifyIcons', 'https://code.iconify.design/1/1.0.7/iconify.min.js');
 }
 add_action('wp_enqueue_scripts', 'portofolio_files');
 

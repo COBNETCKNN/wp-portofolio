@@ -1,7 +1,6 @@
 <?php get_header(); ?>
 
 <!-- HERO SECTION -->
-
 <?php 
 
     $heroQuery = new WP_Query(array(
@@ -70,18 +69,16 @@
             while($aboutQuery->have_posts()){
                 $aboutQuery->the_post();
            
-        
         ?>
 
-                <!-- HEADING SECTION -->
+        <!-- HEADING SECTION -->
         <div class="container mx-auto">
             <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700"><?php the_title(); ?></h1>
         </div>
 
         <div class="about-underline py-0.5 mt-2 w-36 rounded-lg bg-gray-700 mx-auto"></div>
 
-        <!-- CONTENT --> 
-
+        <!-- PICTURE AND TEXT --> 
         <div class="container mx-auto block md:flex justify-center">
             <div class="md:w-1/2 mt-10">
                 <div class="mx-auto">
@@ -89,8 +86,8 @@
                 </div>
             </div>
 
-            <!-- CONTENT -->
-            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-base lg:text-2xl font-raleway text-black text-center">
+            <!-- TEXT -->
+            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-lg lg:text-2xl font-raleway text-black text-center">
                 <p class=""><?php the_content(); ?></p>
             </div>
         </div>
@@ -111,9 +108,6 @@
         <div class="stack-underline py-0.5 mt-2 w-32 rounded-lg bg-gray-700 mx-auto"></div>
     </div>
 
-
-
-
 <!-- QUERY FOR STACK PAGE -->
 <?php
     $stackQuery = new WP_Query(array(
@@ -126,12 +120,9 @@
 
 <!-- CONTENT -->
 <div class="container mx-auto block md:flex justify-center">
-    <div class="md:w-1/2 m-auto md:mr-20 text-base lg:text-2xl font-raleway text-black text-center">
+    <div class="md:w-1/2 mx-5 md:mx-auto my-auto md:mr-20 text-lg lg:text-2xl font-raleway text-black text-center">
         <p><?php the_content(); ?></p>
     </div>
-
-
-
 
 <!-- PROGRAMMING LANGUAGE ICONS -->
         <div class="md:w-1/2 mt-10">
@@ -164,7 +155,7 @@
 
 
     <!-- PROJECT SECTION -->
-    <section id="projects" class="relative bg-white mb-14">
+    <section id="projects" class="relative bg-white mb-16">
         <!-- HEADING -->
         <div class="container mx-auto">
             <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Projects</h1>
@@ -193,7 +184,7 @@
              ?>
 
              <div class="mt-10 text-center p-3">
-               <p class="title project-text text-xl font-raleway font-medium text-gray-700 mb-5"><?php the_title(); ?></p>
+               <p class="title project-text text-xl font-raleway font-semibold text-gray-700 mb-5"><?php the_title(); ?></p>
                <div class="image border-2 border-gray-300">
                 <img
                    alt="..."
@@ -218,21 +209,10 @@
 
         <?php
            }
+            wp_reset_postdata();
         ?>
         </div>
        </div>
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <?php get_footer(); ?>
