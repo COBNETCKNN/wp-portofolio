@@ -12,6 +12,7 @@ function portofolio_files() {
         wp_enqueue_script('fontAwesomeJS', 'https://kit.fontawesome.com/24bc428ad4.js');
         wp_enqueue_script('particlesJS', get_stylesheet_directory_uri() . '/js/particles.js-master/dist/particles.min.js', array(), 1.0, true);
         wp_enqueue_script('iconifyIcons', 'https://code.iconify.design/1/1.0.7/iconify.min.js');
+        wp_enqueue_script('scrollRevealJS', 'https://unpkg.com/scrollreveal');
 }
 add_action('wp_enqueue_scripts', 'portofolio_files');
 
@@ -24,7 +25,7 @@ function portofolio_features() {
 
     //custom image sizes
     add_image_size('aboutAvatar', 270, 270, true);
-    add_image_size('projectSize', 400, 250, true);
+    add_image_size('projectSize', 400, 250, false);
 }
 add_action('after_setup_theme', 'portofolio_features');
 

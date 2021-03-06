@@ -21,7 +21,7 @@
                     Hi there, I'm <span class="text-royalblue-400 font-normal">Ahmed Meshkin</span><br>
                     also a Wordpress developer.</h1>
                     <a href="#navbar">
-                    <button class="hero-button bg-transparent hover:bg-royalblue-400 text-white font-semibold hover:text-white py-2 px-4 border border-white hover:border-transparent rounded mt-8">
+                    <button class="scroll__short hero-button bg-transparent hover:bg-royalblue-400 text-white font-semibold hover:text-white py-2 px-4 border border-white hover:border-transparent rounded mt-8">
                     MORE ABOUT ME <i class="fas fa-arrow-down"></i>
                     </button>
                     </a>
@@ -44,11 +44,11 @@
         <div class="px-12 py-3 bg-gray-800">
             <div class="flex jusfity-start ml-10">
                 <div id="nav__Items" class="hidden md:flex md:items-center">
-                    <a href="#about-us" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Home</a>
-                    <a href="#products" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">About</a>
-                    <a href="#location" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Stack</a>
-                    <a href="#location" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Projects</a>  
-                    <a href="#location" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Contact</a>     
+                    <a href="/" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Home</a>
+                    <a href="#about" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">About</a>
+                    <a href="#stack" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Stack</a>
+                    <a href="#projects" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Projects</a>  
+                    <a href="#footer" class="block mx-4 mt-2 md:mt-0 text-base text-gray-400 capitalize hover:text-royalblue-400">Contact</a>     
                 </div>
             </div>
         </div>
@@ -72,22 +72,23 @@
         ?>
 
         <!-- HEADING SECTION -->
-        <div class="container mx-auto">
+        <div class="scroll__short container mx-auto">
             <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700"><?php the_title(); ?></h1>
+            <div class="about-underline py-0.5 mt-2 w-36 rounded-lg bg-gray-700 mx-auto"></div>
         </div>
 
-        <div class="about-underline py-0.5 mt-2 w-36 rounded-lg bg-gray-700 mx-auto"></div>
+
 
         <!-- PICTURE AND TEXT --> 
         <div class="container mx-auto block md:flex justify-center">
             <div class="md:w-1/2 mt-10">
                 <div class="mx-auto">
-                    <img class="mx-auto rounded-full shadow-xl border-solid border-2 border-royalblue-400 " src="<?php the_post_thumbnail_url('aboutAvatar'); ?>" alt="">
+                    <img class="scroll__left mx-auto rounded-full shadow-xl border-solid border-2 border-royalblue-400" src="<?php the_post_thumbnail_url('aboutAvatar'); ?>" alt="">
                 </div>
             </div>
 
             <!-- TEXT -->
-            <div class="md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-lg lg:text-2xl font-raleway text-black text-center">
+            <div class="scroll__right md:W-1/2 mx-5 md:mx-auto mt-10 lg:my-auto lg:mr-24 text-lg lg:text-2xl font-raleway text-black text-center">
                 <p class=""><?php the_content(); ?></p>
             </div>
         </div>
@@ -103,7 +104,7 @@
 
 <!-- STACK SECTION -->
 <section id="stack" class="relative bg-gray-200">
-    <div class="container mx-auto mb-12 md:mb-0">
+    <div class="scroll__short container mx-auto mb-12 md:mb-0">
         <h1 class="text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Stack</h1>
         <div class="stack-underline py-0.5 mt-2 w-32 rounded-lg bg-gray-700 mx-auto"></div>
     </div>
@@ -120,12 +121,12 @@
 
 <!-- CONTENT -->
 <div class="container mx-auto block md:flex justify-center">
-    <div class="md:w-1/2 mx-5 md:mx-auto my-auto md:mr-20 text-lg lg:text-2xl font-raleway text-black text-center">
+    <div class="scroll__right md:w-1/2 mx-5 md:mx-auto my-auto md:mr-20 text-lg lg:text-2xl font-raleway text-black text-center">
         <p><?php the_content(); ?></p>
     </div>
 
 <!-- PROGRAMMING LANGUAGE ICONS -->
-        <div class="md:w-1/2 mt-10">
+        <div class="scroll__left md:w-1/2 mt-10">
         <?php 
         $images = get_field('stack_gallery');
         if( $images ): ?>
@@ -157,7 +158,7 @@
     <!-- PROJECT SECTION -->
     <section id="projects" class="relative bg-white mb-16">
         <!-- HEADING -->
-        <div class="container mx-auto">
+        <div class="scroll__short container mx-auto">
             <h1 class="mt-12 text-center text-4xl lg:text-5xl font-raleway font-medium text-gray-700">Projects</h1>
             <div class="about-underline py-0.5 mt-2 w-44 rounded-lg bg-gray-700 mx-auto"></div>
       
@@ -170,7 +171,7 @@
 
          ?>
 
-         <div class="block md:grid grid-cols-3 gap-4">
+         <div class="block md:grid grid-cols-2 lg:grid-cols-4 gap-1 ">
 
           <?php
 
@@ -183,7 +184,7 @@
              
              ?>
 
-             <div class="mt-10 text-center p-3">
+             <div class="scroll__left mt-10 text-center p-3">
                <p class="title project-text text-xl font-raleway font-semibold text-gray-700 mb-5"><?php the_title(); ?></p>
                <div class="image border-2 border-gray-300">
                 <img

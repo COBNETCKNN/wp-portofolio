@@ -4835,3 +4835,23 @@ Stack trace:
 [19-Feb-2021 22:25:23 UTC] PHP   4. include() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\template-loader.php:106
 [19-Feb-2021 22:25:23 UTC] PHP   5. esc_url() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\front-page.php:203
 [19-Feb-2021 22:25:23 UTC] PHP   6. ltrim() C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\formatting.php:4314
+[06-Mar-2021 14:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enquue_script() in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\functions.php:15
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(287): portofolio_files('')
+#1 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php(2004): do_action('wp_enqueue_scri...')
+#4 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#5 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\Us in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\functions.php on line 15
+[06-Mar-2021 14:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enquue_script() in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\functions.php:15
+Stack trace:
+#0 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(287): portofolio_files('')
+#1 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\script-loader.php(2004): do_action('wp_enqueue_scri...')
+#4 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#5 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\Us in C:\Users\COBNETCKNN\Local Sites\portofolio\app\public\wp-content\themes\Portofolio\functions.php on line 15

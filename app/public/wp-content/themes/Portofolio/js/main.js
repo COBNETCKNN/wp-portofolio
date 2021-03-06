@@ -6,4 +6,14 @@ jQuery(document).ready(function (jQuery) {
       color: '#FFFFFF'
     });
   };
+
+  ScrollReveal().reveal('.scroll__short', {
+    delay: 300
+  });
+  ScrollReveal().reveal('.scroll__left', {
+    delay: 500
+  });
+  ScrollReveal().reveal('.scroll__right', {
+    delay: 700
+  });
 });
